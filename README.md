@@ -8,6 +8,11 @@ It leverages machine learning and natural language processing (NLP) to ensure th
 Features :
 
 ^ Smart Matching Algorithm – Matches orphanages and donors by donation type, urgency, and location proximity.
+## Screenshot: Matching Live Table
+
+![Matching Live Table](screenshots/match1.png)
+![Matching Live Table](screenshots/match2.png)
+
 
 ^ AI-powered NLP – Extracts donor intentions and orphanage requests directly from plain text messages .
 ## Screenshot: NLP Panel
@@ -16,10 +21,24 @@ Features :
 
 
 ^ Interactive Dashboard – Displays urgent orphanages, top donors, and live matches.
+## Screenshot: Displays urgent orphanages, top donors, and live matches
+
+![information](screenshots/info.png)
+
 
 ^ Predictive Analytics – Forecasts donation needs using historical trends.
+## Screenshot: Predictive analytics using 6 algorithms .
+
+![Predictive Analytics](screenshots/predict.png)
+
 
 ^ Scalable Design – Easily extendable with real-world datasets and NGO integrations.
+## Screenshot: NLP Panel
+
+![Scalable Design](screenshots/add.png)
+![Scalable Design](screenshots/barchart.png)
+![Scalable Design](screenshots/piechart.png)
+
 
 Dataset :
 
