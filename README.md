@@ -9,7 +9,11 @@ Features :
 
 ^ Smart Matching Algorithm – Matches orphanages and donors by donation type, urgency, and location proximity.
 
-^ AI-powered NLP – Extracts donor intentions and orphanage requests directly from plain text messages.
+^ AI-powered NLP – Extracts donor intentions and orphanage requests directly from plain text messages .
+## Screenshot: NLP Panel
+
+![NLP Panel](screenshots/nlp.png)
+
 
 ^ Interactive Dashboard – Displays urgent orphanages, top donors, and live matches.
 
